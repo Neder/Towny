@@ -1,5 +1,7 @@
 New translation project - Started at 2018-08-06
+
 Currently plans message translating only. (no command translating)
+
 Former project can be accessed from http://github.com/NederGarage/Towny.
 
 <p align="center">
